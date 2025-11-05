@@ -1,3 +1,3 @@
 # ParaTesteWeb
 
-Página Web utilizada em um LAB de hospedagem de site estático com o S3.
+Página Web utilizada em LAB de hospedagem de site estático com o S3.
